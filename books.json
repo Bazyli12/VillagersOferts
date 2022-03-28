@@ -1,0 +1,1071 @@
+[{
+    "name": "Aqua Affinity",
+    "name_alt": "Aqua Affinity",
+    "name_pl": "Wydajność pod wodą",
+    "name_pl_alt": "Wydajność pod wodą",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Bane of Arthropods I",
+    "name_alt": "Bane of Arthropods 1",
+    "name_pl": "Zmora stawonogów I",
+    "name_pl_alt": "Zmora stawonogów 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Bane of Arthropods II",
+    "name_alt": "Bane of Arthropods 2",
+    "name_pl": "Zmora stawonogów II",
+    "name_pl_alt": "Zmora stawonogów 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Bane of Arthropods III",
+    "name_alt": "Bane of Arthropods 3",
+    "name_pl": "Zmora stawonogów III",
+    "name_pl_alt": "Zmora stawonogów 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Bane of Arthropods IV",
+    "name_alt": "Bane of Arthropods 4",
+    "name_pl": "Zmora stawonogów IV",
+    "name_pl_alt": "Zmora stawonogów 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#98FF74",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Bane of Arthropods V",
+    "name_alt": "Bane of Arthropods 5",
+    "name_pl": "Zmora stawonogów V",
+    "name_pl_alt": "Zmora stawonogów 5",
+    "level": "5",
+    "level_rom": "V",
+    "color": "#98FF74",
+    "min": "17",
+    "max": "71"
+}, {
+    "name": "Blast protection I",
+    "name_alt": "Blast protection 1",
+    "name_pl": "Ochrona od wybuchów I",
+    "name_pl_alt": "Ochrona od wybuchów 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Blast protection II",
+    "name_alt": "Blast protection 2",
+    "name_pl": "Ochrona od wybuchów II",
+    "name_pl_alt": "Ochrona od wybuchów 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#74DEFF",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Blast protection III",
+    "name_alt": "Blast protection 3",
+    "name_pl": "Ochrona od wybuchów III",
+    "name_pl_alt": "Ochrona od wybuchów 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#74DEFF",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Blast protection IV",
+    "name_alt": "Blast protection 4",
+    "name_pl": "Ochrona od wybuchów IV",
+    "name_pl_alt": "Ochrona od wybuchów 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#74DEFF",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Channeling",
+    "name_alt": "Channeling",
+    "name_pl": "Porażenie",
+    "name_pl_alt": "Porażenie",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Curse of Binding",
+    "name_alt": "Curse of Binding",
+    "name_pl": "Klątwa uwiązania",
+    "name_pl_alt": "Klątwa uwiązania",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#4A4A4A",
+    "min": "10",
+    "max": "38"
+}, {
+    "name": "Curse of Vanishing",
+    "name_alt": "Curse of Vanishing",
+    "name_pl": "Klątwa znikania",
+    "name_pl_alt": "Klątwa znikania",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#4A4A4A",
+    "min": "10",
+    "max": "38"
+}, {
+    "name": "Depth strider I",
+    "name_alt": "Depth strider 1",
+    "name_pl": "Głębinowy wędrowiec I",
+    "name_pl_alt": "Głębinowy wędrowiec 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Depth strider II",
+    "name_alt": "Depth strider 2",
+    "name_pl": "Głębinowy wędrowiec II",
+    "name_pl_alt": "Głębinowy wędrowiec 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#74DEFF",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Depth strider III",
+    "name_alt": "Depth strider 3",
+    "name_pl": "Głębinowy wędrowiec III",
+    "name_pl_alt": "Głębinowy wędrowiec 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#74DEFF",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Efficiency I",
+    "name_alt": "Efficiency 1",
+    "name_pl": "Wydajność I",
+    "name_pl_alt": "Wydajność 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#FFE974",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Efficiencyy II",
+    "name_alt": "Efficiency 2",
+    "name_pl": "Wydajność II",
+    "name_pl_alt": "Wydajność 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#FFE974",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Efficiency III",
+    "name_alt": "Efficiency 3",
+    "name_pl": "Wydajność III",
+    "name_pl_alt": "Wydajność 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#FFE974",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Efficiency IV",
+    "name_alt": "Efficiency 4",
+    "name_pl": "Wydajność IV",
+    "name_pl_alt": "Wydajność 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#FFE974",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Efficiency V",
+    "name_alt": "Efficiency 5",
+    "name_pl": "Wydajność V",
+    "name_pl_alt": "Wydajność 5",
+    "level": "5",
+    "level_rom": "V",
+    "color": "#FFE974",
+    "min": "17",
+    "max": "71"
+}, {
+    "name": "Feather falling I",
+    "name_alt": "Feather falling 1",
+    "name_pl": "Łagodny upadek I",
+    "name_pl_alt": "Łagodny upadek 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Feather falling II",
+    "name_alt": "Feather falling 2",
+    "name_pl": "Łagodny upadek II",
+    "name_pl_alt": "Łagodny upadek 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#74DEFF",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Feather falling III",
+    "name_alt": "Feather falling 3",
+    "name_pl": "Łagodny upadek III",
+    "name_pl_alt": "Łagodny upadek 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#74DEFF",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Feather falling IV",
+    "name_alt": "Feather falling 4",
+    "name_pl": "Łagodny upadek IV",
+    "name_pl_alt": "Łagodny upadek 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#74DEFF",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Fire aspect I",
+    "name_alt": "Fire aspect 1",
+    "name_pl": "Zaklęty ogień I",
+    "name_pl_alt": "Zaklęty ogień 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Fire aspect II",
+    "name_alt": "Fire aspect 2",
+    "name_pl": "Zaklęty ogień II",
+    "name_pl_alt": "Zaklęty ogień 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Fire protection I",
+    "name_alt": "Fire protection 1",
+    "name_pl": "Ochrona przed ogniem I",
+    "name_pl_alt": "Ochrona przed ogniem 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Fire protection II",
+    "name_alt": "Fire protection 2",
+    "name_pl": "Ochrona przed ogniem II",
+    "name_pl_alt": "Ochrona przed ogniem 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#74DEFF",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Fire protection III",
+    "name_alt": "Fire protection 3",
+    "name_pl": "Ochrona przed ogniem III",
+    "name_pl_alt": "Ochrona przed ogniem 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#74DEFF",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Fire protection IV",
+    "name_alt": "Fire protection 4",
+    "name_pl": "Ochrona przed ogniem IV",
+    "name_pl_alt": "Ochrona przed ogniem 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#74DEFF",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Flame",
+    "name_alt": "Flame",
+    "name_pl": "Płomień",
+    "name_pl_alt": "Płomień",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Fortune I",
+    "name_alt": "Fortune 1",
+    "name_pl": "Szczęście I",
+    "name_pl_alt": "Szczęście 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#FFE974",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Fortune II",
+    "name_alt": "Fortune 2",
+    "name_pl": "Szczęście II",
+    "name_pl_alt": "Szczęście 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#FFE974",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Fortune III",
+    "name_alt": "Fortune 3",
+    "name_pl": "Szczęście III",
+    "name_pl_alt": "Szczęście 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#FFE974",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Frost walker I",
+    "name_alt": "Frost walker 1",
+    "name_pl": "Mroźny piechur I",
+    "name_pl_alt": "Mroźny piechur 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "10",
+    "max": "38"
+}, {
+    "name": "Frost walker II",
+    "name_alt": "Frost walker 2",
+    "name_pl": "Mroźny piechur II",
+    "name_pl_alt": "Mroźny piechur 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#74DEFF",
+    "min": "16",
+    "max": "64"
+}, {
+    "name": "Impaling I",
+    "name_alt": "Impaling 1",
+    "name_pl": "Przebicie I",
+    "name_pl_alt": "Przebicie 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Impaling II",
+    "name_alt": "Impaling 2",
+    "name_pl": "Przebicie II",
+    "name_pl_alt": "Przebicie 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Impaling III",
+    "name_alt": "Impaling 3",
+    "name_pl": "Przebicie III",
+    "name_pl_alt": "Przebicie 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Impaling IV",
+    "name_alt": "Impaling 4",
+    "name_pl": "Przebicie IV",
+    "name_pl_alt": "Przebicie 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#98FF74",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Impaling V",
+    "name_alt": "Impaling 5",
+    "name_pl": "Przebicie V",
+    "name_pl_alt": "Przebicie 5",
+    "level": "5",
+    "level_rom": "V",
+    "color": "#98FF74",
+    "min": "17",
+    "max": "71"
+}, {
+    "name": "Infinity",
+    "name_alt": "Infinity",
+    "name_pl": "Nieskończoność",
+    "name_pl_alt": "Nieskończoność",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Knockback I",
+    "name_alt": "Knockback 1",
+    "name_pl": "Odrzut I",
+    "name_pl_alt": "Odrzut 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Knockback II",
+    "name_alt": "Knockback 2",
+    "name_pl": "Odrzut II",
+    "name_pl_alt": "Odrzut 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Looting I",
+    "name_alt": "Looting 1",
+    "name_pl": "Grabież I",
+    "name_pl_alt": "Grabież 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Looting II",
+    "name_alt": "Looting 2",
+    "name_pl": "Grabież II",
+    "name_pl_alt": "Grabież 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Looting III",
+    "name_alt": "Looting 3",
+    "name_pl": "Grabież III",
+    "name_pl_alt": "Grabież 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Loyalty I",
+    "name_alt": "Loyalty 1",
+    "name_pl": "Lojalność I",
+    "name_pl_alt": "Lojalność 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Loyalty II",
+    "name_alt": "Loyalty 2",
+    "name_pl": "Lojalność II",
+    "name_pl_alt": "Lojalność 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Loyalty III",
+    "name_alt": "Loyalty 3",
+    "name_pl": "Lojalność III",
+    "name_pl_alt": "Lojalność 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Luck of the Sea I",
+    "name_alt": "Luck of the Sea 1",
+    "name_pl": "Morska fortuna I",
+    "name_pl_alt": "Morska fortuna 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#FFE974",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Luck of the Sea II",
+    "name_alt": "Luck of the Sea 2",
+    "name_pl": "Morska fortuna II",
+    "name_pl_alt": "Morska fortuna 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#FFE974",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Luck of the Sea III",
+    "name_alt": "Luck of the Sea 3",
+    "name_pl": "Morska fortuna III",
+    "name_pl_alt": "Morska fortuna 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#FFE974",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Lure I",
+    "name_alt": "Lure 1",
+    "name_pl": "Przynęta I",
+    "name_pl_alt": "Przynęta 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#FFE974",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Lure II",
+    "name_alt": "Lure 2",
+    "name_pl": "Przynęta II",
+    "name_pl_alt": "Przynęta 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#FFE974",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Lure III",
+    "name_alt": "Lure 3",
+    "name_pl": "Przynęta III",
+    "name_pl_alt": "Przynęta 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#FFE974",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Mending",
+    "name_alt": "Mending",
+    "name_pl": "Naprawa",
+    "name_pl_alt": "Naprawa",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#FF7474",
+    "min": "10",
+    "max": "38"
+}, {
+    "name": "Multishot",
+    "name_alt": "Multishot",
+    "name_pl": "Wielostrzał",
+    "name_pl_alt": "Wielostrzał",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Piercing I",
+    "name_alt": "Piercing 1",
+    "name_pl": "Przeszycie I",
+    "name_pl_alt": "Przeszycie 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Piercing II",
+    "name_alt": "Piercing 2",
+    "name_pl": "Przeszycie II",
+    "name_pl_alt": "Przeszycie 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Piercing III",
+    "name_alt": "Piercing 3",
+    "name_pl": "Przeszycie III",
+    "name_pl_alt": "Przeszycie 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Piercing IV",
+    "name_alt": "Piercing 4",
+    "name_pl": "Przeszycie IV",
+    "name_pl_alt": "Przeszycie 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#98FF74",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Power I",
+    "name_alt": "Power 1",
+    "name_pl": "Moc I",
+    "name_pl_alt": "Moc 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Power II",
+    "name_alt": "Power 2",
+    "name_pl": "Moc II",
+    "name_pl_alt": "Moc 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Power III",
+    "name_alt": "Power 3",
+    "name_pl": "Moc III",
+    "name_pl_alt": "Moc 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Power IV",
+    "name_alt": "Power 4",
+    "name_pl": "Moc IV",
+    "name_pl_alt": "Moc 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#98FF74",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Power V",
+    "name_alt": "Power 5",
+    "name_pl": "Moc V",
+    "name_pl_alt": "Moc 5",
+    "level": "5",
+    "level_rom": "V",
+    "color": "#98FF74",
+    "min": "17",
+    "max": "71"
+}, {
+    "name": "Projectile protection I",
+    "name_alt": "Projectile protection 1",
+    "name_pl": "Ochrona przed pociskami I",
+    "name_pl_alt": "Ochrona przed pociskami 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Projectile protection II",
+    "name_alt": "Projectile protection 2",
+    "name_pl": "Ochrona przed pociskami II",
+    "name_pl_alt": "Ochrona przed pociskami 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#74DEFF",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Projectile protection III",
+    "name_alt": "Projectile protection 3",
+    "name_pl": "Ochrona przed pociskami III",
+    "name_pl_alt": "Ochrona przed pociskami 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#74DEFF",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Projectile protection IV",
+    "name_alt": "Projectile protection 4",
+    "name_pl": "Ochrona przed pociskami IV",
+    "name_pl_alt": "Ochrona przed pociskami 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#74DEFF",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Protection I",
+    "name_alt": "Protection 1",
+    "name_pl": "Ochrona I",
+    "name_pl_alt": "Ochrona 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Protection II",
+    "name_alt": "Protection 2",
+    "name_pl": "Ochrona II",
+    "name_pl_alt": "Ochrona 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#74DEFF",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Protection III",
+    "name_alt": "Protection 3",
+    "name_pl": "Ochrona III",
+    "name_pl_alt": "Ochrona 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#74DEFF",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Protection IV",
+    "name_alt": "Protection 4",
+    "name_pl": "Ochrona IV",
+    "name_pl_alt": "Ochrona 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#74DEFF",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Punch I",
+    "name_alt": "Punch 1",
+    "name_pl": "Uderzenie I",
+    "name_pl_alt": "Uderzenie 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Punch II",
+    "name_alt": "Punch 2",
+    "name_pl": "Uderzenie II",
+    "name_pl_alt": "Uderzenie 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Quick charge I",
+    "name_alt": "Quick charge 1",
+    "name_pl": "Szybkie ładowanie I",
+    "name_pl_alt": "Szybkie ładowanie 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Quick charge II",
+    "name_alt": "Quick charge 2",
+    "name_pl": "Szybkie ładowanie II",
+    "name_pl_alt": "Szybkie ładowanie 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Quick charge III",
+    "name_alt": "Quick charge 3",
+    "name_pl": "Szybkie ładowanie III",
+    "name_pl_alt": "Szybkie ładowanie 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Respiration I",
+    "name_alt": "Respiration 1",
+    "name_pl": "Oddychanie I",
+    "name_pl_alt": "Oddychanie 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Respiration II",
+    "name_alt": "Respiration 2",
+    "name_pl": "Oddychanie II",
+    "name_pl_alt": "Oddychanie 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#74DEFF",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Respiration III",
+    "name_alt": "Respiration 3",
+    "name_pl": "Oddychanie III",
+    "name_pl_alt": "Oddychanie 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#74DEFF",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Riptide I",
+    "name_alt": "Riptide 1",
+    "name_pl": "Torpeda I",
+    "name_pl_alt": "Torpeda 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Riptide II",
+    "name_alt": "Riptide 2",
+    "name_pl": "Torpeda II",
+    "name_pl_alt": "Torpeda 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Riptide III",
+    "name_alt": "Riptide 3",
+    "name_pl": "Torpeda III",
+    "name_pl_alt": "Torpeda 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Sharpness I",
+    "name_alt": "Sharpness 1",
+    "name_pl": "Ostrość I",
+    "name_pl_alt": "Ostrość 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Sharpness II",
+    "name_alt": "Sharpness 2",
+    "name_pl": "Ostrość II",
+    "name_pl_alt": "Ostrość 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Sharpness III",
+    "name_alt": "Sharpness 3",
+    "name_pl": "Ostrość III",
+    "name_pl_alt": "Ostrość 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Sharpness IV",
+    "name_alt": "Sharpness 4",
+    "name_pl": "Ostrość IV",
+    "name_pl_alt": "Ostrość 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#98FF74",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Sharpness V",
+    "name_alt": "Sharpness 5",
+    "name_pl": "Ostrość V",
+    "name_pl_alt": "Ostrość 5",
+    "level": "5",
+    "level_rom": "V",
+    "color": "#98FF74",
+    "min": "17",
+    "max": "71"
+}, {
+    "name": "Silk Touch",
+    "name_alt": "Silk Touch",
+    "name_pl": "Jedwabny dotyk",
+    "name_pl_alt": "Jedwabny dotyk",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#FFE974",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Smite I",
+    "name_alt": "Smite 1",
+    "name_pl": "Pogromca nieumarłych I",
+    "name_pl_alt": "Pogromca nieumarłych 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Smite II",
+    "name_alt": "Smite 2",
+    "name_pl": "Pogromca nieumarłych II",
+    "name_pl_alt": "Pogromca nieumarłych 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Smite III",
+    "name_alt": "Smite 3",
+    "name_pl": "Pogromca nieumarłych III",
+    "name_pl_alt": "Pogromca nieumarłych 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Smite IV",
+    "name_alt": "Smite 4",
+    "name_pl": "Pogromca nieumarłych IV",
+    "name_pl_alt": "Pogromca nieumarłych 4",
+    "level": "4",
+    "level_rom": "IV",
+    "color": "#98FF74",
+    "min": "14",
+    "max": "58"
+}, {
+    "name": "Smite V",
+    "name_alt": "Smite 5",
+    "name_pl": "Pogromca nieumarłych V",
+    "name_pl_alt": "Pogromca nieumarłych 5",
+    "level": "5",
+    "level_rom": "V",
+    "color": "#98FF74",
+    "min": "17",
+    "max": "71"
+}, {
+    "name": "Sweeping edge I",
+    "name_alt": "Sweeping edge 1",
+    "name_pl": "Szerokie ostrze I",
+    "name_pl_alt": "Szerokie ostrze 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#98FF74",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Sweeping edge II",
+    "name_alt": "Sweeping edge 2",
+    "name_pl": "Szerokie ostrze II",
+    "name_pl_alt": "Szerokie ostrze 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#98FF74",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Sweeping edge III",
+    "name_alt": "Sweeping edge 3",
+    "name_pl": "Szerokie ostrze III",
+    "name_pl_alt": "Szerokie ostrze 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#98FF74",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Thorns I",
+    "name_alt": "Thorns 1",
+    "name_pl": "Ciernie I",
+    "name_pl_alt": "Ciernie 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#74DEFF",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Thorns II",
+    "name_alt": "Thorns 2",
+    "name_pl": "Ciernie II",
+    "name_pl_alt": "Ciernie 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#74DEFF",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Thorns III",
+    "name_alt": "Thorns 3",
+    "name_pl": "Ciernie III",
+    "name_pl_alt": "Ciernie 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#74DEFF",
+    "min": "11",
+    "max": "45"
+}, {
+    "name": "Unbreaking I",
+    "name_alt": "Unbreaking 1",
+    "name_pl": "Niezniszczalność I",
+    "name_pl_alt": "Niezniszczalność 1",
+    "level": "1",
+    "level_rom": "I",
+    "color": "#FFE974",
+    "min": "5",
+    "max": "19"
+}, {
+    "name": "Unbreaking II",
+    "name_alt": "Unbreaking 2",
+    "name_pl": "Niezniszczalność II",
+    "name_pl_alt": "Niezniszczalność 2",
+    "level": "2",
+    "level_rom": "II",
+    "color": "#FFE974",
+    "min": "8",
+    "max": "32"
+}, {
+    "name": "Unbreaking III",
+    "name_alt": "Unbreaking 3",
+    "name_pl": "Niezniszczalność III",
+    "name_pl_alt": "Niezniszczalność 3",
+    "level": "3",
+    "level_rom": "III",
+    "color": "#FFE974",
+    "min": "11",
+    "max": "45"
+}]

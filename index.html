@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/png" href="./img/Emerald.png">
+    <title>Villagers Offerts</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="search-container">
+                <svg width="25" height="25" viewBox="0 0 41 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="17" cy="17" r="15" stroke="black" stroke-width="4"/>
+                    <path d="M28 28L39 39" stroke="black" stroke-width="4" stroke-linecap="round"/>
+                    </svg>
+                <input spellcheck="false" autocomplete="off" id="search" class="search" type="text" placeholder="Szukaj...">
+                <svg class="x" onclick="remove()" width="22" height="22" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M2 2L36 36" stroke="black" stroke-width="4" stroke-linecap="round"/>
+                    <path d="M2 36L36 2" stroke="black" stroke-width="4" stroke-linecap="round"/>
+                    </svg>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div id="booksList" class="grid-container">
+        </div>
+    </main>
+</body>
+<script src="script.js"></script>
+
+</html>
